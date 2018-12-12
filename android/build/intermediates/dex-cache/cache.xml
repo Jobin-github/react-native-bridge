@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\org.msgpack\jackson-dataformat-msgpack\0.8.16\e625244f2b5213bcf18cf3666cae11f67417da71\jackson-dataformat-msgpack-0.8.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e625244f2b5213bcf18cf3666cae11f67417da71">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\jackson-dataformat-msgpack-0.8.16_fe999460f73545b323c71481cd19086c75afb12c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\okhttp-ws-3.4.1_6e1ee275c60b2f9b790357a529d0e5c7a9921f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.0.0\45599f2cd5965ac05a1488fa2a5c0cdd7c499ead\annotation-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="45599f2cd5965ac05a1488fa2a5c0cdd7c499ead">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\annotation-1.0.0_ada0ec3a7724c384d5b49b53d9b406cb7993c950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\commons-lang3-3.3.2_088e2a00d4c4a65a19fca3a6db386941ccf1cdd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.8.10\eb21a035c66ad307e66ec8fce37f5d50fd62d039\jackson-core-2.8.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="eb21a035c66ad307e66ec8fce37f5d50fd62d039">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\jackson-core-2.8.10_536b4a11595cce54335d83fdfb72a262631b361b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.10.0\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\okhttp-3.10.0_c4230c5f6a83145405ac883e927e02a35080b2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\support-annotations-23.0.1_fa545700051bcb303eb606ab5f007e16b4696637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\891dd44714026d1049a05785f8da3e0169167936\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_e385478f0abf0d73a7cd4c44123f10f73345a797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\db6ce86e7f95d3304084f959660927f49de77953\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_65e9a6afccdc297e48ee30f15f745f3b330fc4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\org.msgpack\msgpack-core\0.8.16\26af8b01c56128ae248413a7b5c94c08df5eddca\msgpack-core-0.8.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="26af8b01c56128ae248413a7b5c94c08df5eddca">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\msgpack-core-0.8.16_87fc9e480922153216a8357bf3e4607fe4bb8252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\1733fcecb954d431dc92b708e01ad4469eeb2ac0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_24a553b4ab367ea38255c704fe04dd21e9ba7eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\okio-1.14.0_4c874806f62617a79a7495d7fc7bf2bdacad5407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.4.1_78775c37dc49fbfa7829e2f94a1b351feb1c75c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\35e4da4b6abf4d21e254e508b36292f2301a168b\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\infer-annotations-4.0_b70c65bd0ba2096e5fc4d19d22fdc3c4d9b3d130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\3b402baf884c62109b6fdec8a50c90d6bb4bccc9\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\internal_impl-23.0.1_ec1ccd36396062e84515ab71575e0d842dbb9b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\javax.inject-1_4168fb247459b31e3e2183ceacce0faf46a0d38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_3aed9e475f36eb8bc60874f20239be7bfd5a64af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\staticlayout-proxy-1.0_0df7871515883967cf672b976faf2ef176534ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\jsr305-3.0.0_4d927ee5a8bf436e83caa8ea7a099b04f43cab25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.2\323964c36556eb0e6209f65c1cef72b53b461ab8\reactive-streams-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="323964c36556eb0e6209f65c1cef72b53b461ab8">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\reactive-streams-1.0.2_fc3ed4ab8fd9972ec081bc6e238eba0f363b0704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\8c300c151ed8f3cd85edf32e9b6535ea1034ffe7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_62455c655b1f4250fb90d6c9d9f65bddaa19557c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\fc4b49d5d9492e629f7599c0c1eda954091a3b87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_fafc88a80ac25d2e57e407fc1ee2047b2e51e1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\35e4da4b6abf4d21e254e508b36292f2301a168b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_2ed6ff90a0c5d62f3a35bad1a3eccbe507041b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.5\f645ed69d595b24d4cf8b3fbb64cc505bede8829\gson-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\gson-2.8.5_2e160e4160e04f6210fb80a32212e93959035cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\fa4681f61676311bcd3f65b36a59d49979f3c965\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="37d3f9a065d98926697160993997927884e630f2">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_f7d7474a864feb3a6d8d0bb379c917c089ac6abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.0\45b426f7796b741035581a176744d91090e2e6fb\jackson-annotations-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="45b426f7796b741035581a176744d91090e2e6fb">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\jackson-annotations-2.8.0_ba1c43e6764b3a8abdd8b593a856966b309d4738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\4623fe3e7fa9813b92cc062ce8f54ed09d2b0a0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_6fbc1d9a1fd99d82a132e268ad169300a1c56793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\3b402baf884c62109b6fdec8a50c90d6bb4bccc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_ffc46c89b3079602c1d652214ddb3c4e658413b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.11.1\341edc63fdd8b44e17b2c36abbc9b451d8fd05a5\jackson-databind-2.8.11.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="341edc63fdd8b44e17b2c36abbc9b451d8fd05a5">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\jackson-databind-2.8.11.1_781a9f6296fee61b4a8b9d987b30b895db254d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\5b97c85fe0e01196abdfcab8a2585c2ddb6eeb27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_9caa4ccb2ab5ccb8cc75177e3275167be314343e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sachit\.gradle\caches\modules-2\files-2.1\com.j256.simplemagic\simplemagic\1.12\bcca47c1b5f6bc4d906f107f2359cc3459f5cbbe\simplemagic-1.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bcca47c1b5f6bc4d906f107f2359cc3459f5cbbe">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\simplemagic-1.12_d9f517cc4941f86c9aaabbc10c4a7c1bac11acfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK_HOME\.android\build-cache\584c9d5549888549dbc431ee3f1b7a4f58b4f67e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\Sachit\Desktop\react-native-chat-local\node_modules\react-native-bridgefy-sdk\android\build\intermediates\pre-dexed\release\classes_e1fada2213a175b1b02f919d4cac804db47fdfff.jar" />
+    </item>
+
+</items>
