@@ -21,7 +21,7 @@ export default class BridgefyReact extends React.Component {
   }
   componentWillMount() {
 
-    Bridgefy.init("YOUR_API_KEY_HERE", 
+    Bridgefy.init("21fe576f-ddde-4a2d-89b0-aa8162dc9b03", 
           (errorCode, message)=>{
                     console.log("ERROR" + message + ":" + errorCode);
           },

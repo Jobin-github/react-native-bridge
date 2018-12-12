@@ -94,7 +94,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "me.bridgefy.samples.react.chat"
+        applicationId "me.bridgefy.samples.react.chat.personal"
         minSdkVersion 21
         targetSdkVersion 25
         versionCode 1
